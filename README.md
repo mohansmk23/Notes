@@ -1,6 +1,8 @@
-# notebook_app
+# Notes app
 
-A new Flutter application.
+A notes app using SQFLITE Api.
+
+
 
 ## Getting Started
 
